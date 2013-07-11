@@ -12,7 +12,8 @@
 function drush_updater_help($path, $arg) {
   switch ($path) {
     case 'admin/help#drush_updater':
-      return dt("This command mass-insert VOA3R content into the web");
+      return t("This command mass-insert VOA3R content into the web");
+
     // OPTIONAL: Add additional cases for other paths that should display help text.
   }
 }
