@@ -22,7 +22,10 @@ Installation
     $ sudo apt-get install drush
     
     (now, in your Drupal Admin console you can enable these 2 modules, and if you have 
-    drupal-contentbuilder installed, you will be able to populate directly your database with XML/METADATA data)
+    drupal-contentbuilder installed, you will be able to populate directly your database 
+    with XML/METADATA data)  
+    
+    
         
     
 Licence
