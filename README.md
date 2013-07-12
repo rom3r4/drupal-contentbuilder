@@ -30,4 +30,4 @@ Licence
 
 Propietary. University of Alcalá
 
-Disclaimer: This code is provide as-is. Run it at your own risk
+Disclaimer: This code is provided as-is. Run it at your own risk
