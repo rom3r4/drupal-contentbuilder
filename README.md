@@ -28,6 +28,5 @@ Installation
 Licence
 ===
 
-Propietary. University of Alcalá
-
+Propietary. University of Alcalá  .
 Disclaimer: This code is provided as-is. Run it at your own risk
