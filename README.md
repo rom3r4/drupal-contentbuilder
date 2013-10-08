@@ -1,11 +1,18 @@
 [drupal-contentbuilder](#)
-======================
+--
 
 Drupal Helper Package to create remotely Drupal Content (Using either drush or the Durpal's Service module) 
 
 Installation
----
-
+--
+    
+    This project is part of the project https://github.com/julianromerajuarez/drupal-voa3rinstaller
+    refer to if for installation instructions  
+    
+   
+   
+   
+    DEPRECATED: (read above)
     To deploy this app just follow these istructions:
     
     (from an UNIX / UNIX-like system)
@@ -28,8 +35,7 @@ Installation
     
         
     
-Licence
-===
+License
+--
 
-Propietary. University of Alcalá  .
-Disclaimer: This code is provided as-is. Run it at your own risk
+Copiright University of Alcala. Licensed as GNU/GPL version 2 License  
