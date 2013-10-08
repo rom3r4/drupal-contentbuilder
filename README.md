@@ -22,10 +22,17 @@ Installation
     $ cd sites/all/modules
     $ git clone https://github.com/julianromerajuarez/drupal-contentbuilder.git
     
-    (In you are using a debian-like linux distribution, ensure you have 'Drush' installed. 
-    If not install it with this command)
-        
+    (Also, ensure you have 'Drush' installed. If you dont have it installed, 
+    you can install it with this command using: )
+    
+    (In debian-like systems)    
     $ sudo apt-get install drush
+    (for Mac Os)
+    $ port install drush
+    (in RedHat use: )
+    $ sudo yum install drush
+    
+    
     (now, in your Drupal Admin console you can enable these 2 modules, and if you have 
     drupal-contentbuilder installed, you will be able to populate directly your database 
     with XML/METADATA data)  
