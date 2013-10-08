@@ -390,9 +390,9 @@ function drush_drush_updater_helper()
 
 
   $user_ids = array(1, 2, 3, 4, 5, 6, 7);
-  $random_id = array_rand($user_ids);
+  // $random_id = array_rand($user_ids);
 
-  $random_id = 6;
+  $random_id = 1;
   $i = 0;
   // do some business logic to load your data from where it is
   foreach ($data as $res) {
