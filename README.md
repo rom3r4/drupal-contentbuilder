@@ -6,9 +6,11 @@ Drupal Helper Package to create remotely Drupal Content (Using either drush or t
 Installation
 --
     
-    This project is part of the project https://github.com/julianromerajuarez/drupal-voa3rinstaller
-    refer to if for installation instructions  
+    This project is part of the project [newVOA3R installer](]https://github.com/julianromerajuarez/drupal-voa3rinstaller)
+    refer to it for installation instructions  
     
+   
+   
    
    
    
@@ -35,7 +37,7 @@ Installation
     
     (now, in your Drupal Admin console you can enable these 2 modules, and if you have 
     drupal-contentbuilder installed, you will be able to populate directly your database 
-    with XML/METADATA data)  
+    with RDF METADATA )  
     
     
         
@@ -43,4 +45,4 @@ Installation
 License
 --
 
-Copyright University of Alcala. Licensed as GNU/GPL version 2 License  
+Copyright University of Alcala. Licensed under GNU/ GPL version 2 License  
