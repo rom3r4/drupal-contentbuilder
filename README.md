@@ -1,7 +1,8 @@
 [drupal-contentbuilder](#)
 --
 
-Drupal Helper Package to create remotely Drupal Content (Using either drush or the Durpal's Service module) 
+Drupal 7 Module wich adds external content to Drupal DB ( Via Drush or Web Service ) 
+
 
 New Installation
 --
