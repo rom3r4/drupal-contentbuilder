@@ -6,7 +6,7 @@ Drupal Helper Package to create remotely Drupal Content (Using either drush or t
 Installation
 --
     
-    This project is part of the project [newVOA3R installer](]https://github.com/julianromerajuarez/drupal-voa3rinstaller)
+    This project is part of the project [newVOA3R installer](https://github.com/julianromerajuarez/drupal-voa3rinstaller)
     refer to it for installation instructions  
     
    
