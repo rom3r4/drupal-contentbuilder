@@ -7,7 +7,7 @@ New Installation
 --
 
 This project is part of the project [newVOA3R installer](https://github.com/julianromerajuarez/drupal-voa3rinstaller)
-refer to it for installation instructions  
+.You will get more info in that link  
 
 
 Installation
