@@ -1,6 +1,6 @@
 ###[drupal-contentbuilder](#)
 
-Drupal 7 Module wich listens for the [Agronet-harvester]() app, and adds content to 
+Drupal 7 Module wich listens for the [Agronet-harvester](https://github.com/julianromera/agronet-harvester) app, and adds content to 
 the CMS ( via Drush / Web Service ) 
 
 ###Requirements
@@ -12,7 +12,7 @@ the CMS ( via Drush / Web Service )
 
 
 This project is part (and comes included) of the [Agronet Project](https://github.com/julianromera/agronet)
-.You will get more info in that link  
+.You will get more info on that link  
 
 
 ###Author  
