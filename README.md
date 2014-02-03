@@ -1,49 +1,27 @@
-[drupal-contentbuilder](#)
---
+###[drupal-contentbuilder](#)
 
-Drupal 7 Module wich adds external content to Drupal DB ( Via Drush or Web Service ) 
+Drupal 7 Module wich listens for the [Agronet-harvester]() app, and adds content to 
+the CMS ( via Drush / Web Service ) 
+
+###Requirements
+
+- A working Drupal 7 installation
+- Drush ``>= version 6.x``
+
+###Installation
 
 
-New Installation
---
-
-This project is part of the project [newVOA3R installer](https://github.com/julianromerajuarez/drupal-voa3rinstaller)
+This project is part (and comes included) of the [Agronet Project](https://github.com/julianromera/agronet)
 .You will get more info in that link  
 
 
-Installation
---
-    
+###Author  
 
-    DEPRECATED: (read above)
-    
-    To deploy this app just follow these istructions:
-    
-    (from an UNIX / UNIX-like system)
-    
-    $ cd _YOUR_DRUPAL_SITEs_ROOT
-    $ cd sites/all/modules
-    $ git clone https://github.com/julianromerajuarez/drupal-contentbuilder.git
-    
-    (Also, ensure you have 'Drush' installed. If you dont have it installed, 
-    you can install it with this command using: )
-    
-    (In debian-like systems)    
-    $ sudo apt-get install drush
-    (for Mac Os)
-    $ port install drush
-    (in RedHat use: )
-    $ sudo yum install drush
-    
-    
-    (now, in your Drupal Admin console you can enable these 2 modules, and if you have 
-    drupal-contentbuilder installed, you will be able to populate directly your database 
-    with RDF METADATA )  
-    
-    
-        
-    
-License
---
+University of Alcala
 
-Copyright University of Alcala. Licensed under GNU/ GPL version 2 License  
+###'License'
+
+This is free and unemcumbered software released into the public domain. For more information, see the accompanying UNLICENSE file.
+
+If you're unfamiliar with public domain, that means it's perfectly fine to start with this skeleton and code away, later relicensing as you see fit.
+
